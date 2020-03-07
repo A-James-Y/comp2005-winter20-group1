@@ -1,0 +1,4 @@
+Iteration 3 Plan Extension (This is just to add extra detail that was missing in the orginal 'Iteration Plan.pdf'):
+
+Use Case to model next iteration:      1. Make a legal move.
+                                                               2. Make a bid.

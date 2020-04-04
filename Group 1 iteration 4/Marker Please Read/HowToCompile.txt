@@ -1,9 +1,9 @@
 Method 1: 
-a) Go to 'Game' folder
+a) Go to 'RicochetRobots' folder
 b) and then run 'runGame' jar file
 
 Method 2:
 a) Open console (terminal, command.exe, etc)
-b) Navigate to the 'Game' folder
+b) Navigate to the 'RicochetRobots' folder
 c) Compile the code: javac *.java (Ignore the warnings)
 d) Run the code: java Simulation

@@ -7,14 +7,15 @@ Operating system used: Windows 10
 3. select all 4 human players since AI bot is not available.
 4. Select the Design of board
 5. Click Start Game
-6. on the ride side of board, select name of player(name should turn red) and make a bid at the bottom and submit
+6. on the right side of board, select name of player(name should turn red) and make a bid at the bottom and submit
 7. timer should start which will let other players to select their name and make and submit bid at the bottom.
 8. when timer stops it will then show whose turn it is by changing their name to green colour.
 8. select a robot chip on the board and try to make legal move.
 6. Click on 'Exit Button' to quit the game.
 
 #Important Points to note for the Board
-1. IMPORTANT: please note before doing anything in the game make sure you make bid, let the time pass and make move once your name is green. (Else the game will show Move: Exceeded).
-2. moving same color robot chip to target chip will remove the target chip.
+1. IMPORTANT: please note before doing anything in the game make sure you make bid, let the time pass and make move once your name is green. 
+2. AI, hints and load/save not implemented.
+3. Colour vision has been implemented.
 
 
